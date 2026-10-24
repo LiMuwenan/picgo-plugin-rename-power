@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "PicGo 插件：上传前按模板重命名文件，并按模板生成上传目录（兼容官方重命名）",
   "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "src",
     "README.md"
